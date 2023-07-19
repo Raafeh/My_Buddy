@@ -1,0 +1,4 @@
+langChain/
+__pycache__/
+*.env
+apikey.py
